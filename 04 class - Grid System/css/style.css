@@ -1,0 +1,16 @@
+
+.item{
+    background: red;
+    color: white;
+    padding: 10px 0px;
+    margin-top: 15px;
+}
+
+.item i{
+    font-size: 30px;
+}
+
+.item p{
+    font-size: 18px;
+    padding-top: 10px;
+}
